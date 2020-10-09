@@ -1,0 +1,58 @@
+{
+	"message": "user perfilation executed successfully",
+	"success": true,
+	"data": {
+		"item": {
+			"number": "3376791",
+			"self": "",
+			"typeCode": "",
+			"roleTypeCode": "7",
+			"roleTypeDescription": "ADMIN_USUARIO",
+			"statusCode": "Activo",
+			"name": {
+				"firstName": "Jonathan Armando",
+				"lastName": "Flores",
+				"secondLastName": "Núnez"
+			},
+			"email": null,
+			"phoneNumbers": [
+				{
+					"typeCode": "",
+					"countryCode": "",
+					"number": "",
+					"useCode": "",
+					"isPrimary": false,
+					"extension": ""
+				}
+			],
+			"extension": {
+				"agentLicenseNumber": "",
+				"governmentIssuedIds": [
+					{
+						"typeCode": "RFC",
+						"value": ""
+					}
+				],
+				"organizationNumber": "0",
+				"organizationName": "",
+				"organizationZoneNumber": "",
+				"organizationZoneDescription": "",
+				"managerFullName": "GUILLERMO PEREZ ARANA",
+				"managerNumber": "1008652",
+				"managerEmployeeNumber": "",
+				"promotoriaManagerFullName": "",
+				"promotoriaManagerNumber": "",
+				"organizationUserEmployeeNumber": "1187",
+				"assignmentDuration": "12 meses",
+				"assignmentEndDate": "07-05-2021",
+				"assignmentStartDate": "07-05-2020",
+				"fullName": "Jonathan Armando Flores Núnez",
+				"managementLevel": "",
+				"occupationName": "",
+				"organizationLocation": "",
+				"statusCheckedIndicator": "0"
+			},
+			"statusDescription": "Activo"
+		}
+	}
+}
